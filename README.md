@@ -1,5 +1,1 @@
-# gittest
-git 테스트
-- feature-A
-- fix-b
-- feature-C
+Git 문법정리
